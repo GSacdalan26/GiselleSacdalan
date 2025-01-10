@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giselle Sacdalan - Business Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            background: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Giselle Sacdalan</h1>
+        <p>Administrative and Technical Support Professional</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#services">Services</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Giselle Sacdalan, a dedicated and detail-oriented professional with years of experience in administrative, customer service, and technical roles. My background in application support, process improvement, and team coordination has equipped me to deliver efficient and reliable solutions for businesses. I am passionate about helping clients streamline their operations and achieve their goals.
+        </p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Email and calendar management</li>
+            <li>Data entry, documentation, and reporting</li>
+            <li>Customer support and communication</li>
+            <li>Inventory tracking and budget analysis</li>
+            <li>Basic technical support for applications</li>
+        </ul>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Highlights of my professional experience:</p>
+        <ul>
+            <li>
+                <strong>Quality Engineering Analyst (Application Support)</strong><br>
+                Accenture Technology Center Philippines (September 2021 – Present)<br>
+                - Provided application support for enterprise systems, ensuring consistent functionality and performance.<br>
+                - Documented and streamlined support processes to enhance efficiency.<br>
+                - Collaborated with teams to resolve system issues effectively.
+            </li>
+            <li>
+                <strong>Branch Store Officer</strong><br>
+                Sorosoro Ibaba Development Cooperative (November 2020 – May 2021)<br>
+                - Managed daily operations, inventory, and SAP documentation.<br>
+                - Oversaw financial planning and budgeting for the branch.<br>
+                - Delivered excellent customer service and problem resolution.
+            </li>
+            <li>
+                <strong>Restaurant Manager</strong><br>
+                Ikitchen Inc., Kuya J Restaurant (April 2019 – November 2020)<br>
+                - Supervised staff and ensured smooth restaurant operations.<br>
+                - Implemented operational improvements to increase efficiency.<br>
+                - Trained and developed employees to deliver exceptional service.
+            </li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>
+            Let's work together! Feel free to reach out to me:
+        </p>
+        <p>
+            <strong>Email:</strong> <a href="mailto:g.sacdalan@yahoo.com">g.sacdalan@yahoo.com</a><br>
+            <strong>Mobile:</strong> +639219633441
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Giselle Sacdalan. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
